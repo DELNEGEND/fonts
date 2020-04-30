@@ -5,4 +5,6 @@
         url('./OneUI/SamsungOneUI-400.woff') format('woff'),
         url('./OneUI/SamsungOneUI-400.otf') format('otf');
     font-display: swap;
+    font-weight: 400;
+    font-style: normal;
 }
