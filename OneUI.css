@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "OneUI";
+    src:
+        url('./OneUI/SamsungOneUI-400.woff2') format('woff2'),
+        url('./OneUI/SamsungOneUI-400.woff') format('woff'),
+        url('./OneUI/SamsungOneUI-400.otf') format('otf');
+    font-display: swap;
+}
