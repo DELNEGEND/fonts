@@ -2,15 +2,10 @@
 
 ## Usage
 
-### Load single font
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DELNEGEND/fonts/NotoSans.min.css">
 ```
-
-### Load multiple fonts at once
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/DELNEGEND/fonts/NotoSans.min.css,gh/DELNEGEND/fonts/GoogleSans.min.css,gh/DELNEGEND/fonts/OneUI.min.css">
-```
+*Note: do not use JSDelivr's files combine*
 
 ## Fonts list
 - Google Sans (also known as Product Sans)

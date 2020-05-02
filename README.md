@@ -3,16 +3,10 @@
 ### [English version](./README-en.md)
 
 ## Cách dùng 
-
-### Load một font
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DELNEGEND/fonts/NotoSans.min.css">
 ```
-
-### Load nhiều font cùng lúc
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/DELNEGEND/fonts/NotoSans.min.css,gh/DELNEGEND/fonts/GoogleSans.min.css,gh/DELNEGEND/fonts/OneUI.min.css">
-```
+*Lưu ý: không dùng files combine của JSDelivr*
 
 ## Danh sách font
 - Google Sans (còn có tên gọi Product Sans)
