@@ -1,6 +1,6 @@
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 950;
+    font-weight: 950;
     font-style: normal;
     font-display: swap;
     src:
@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 950;
+    font-weight: 950;
     font-style: italic;
     font-display: swap;
     src:
@@ -26,7 +26,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 700;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
     src:
@@ -39,7 +39,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 700;
+    font-weight: 700;
     font-style: italic;
     font-display: swap;
     src:
@@ -52,7 +52,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 900;
+    font-weight: 900;
     font-style: normal;
     font-display: swap;
     src:
@@ -65,7 +65,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 900;
+    font-weight: 900;
     font-style: italic;
     font-display: swap;
     src:
@@ -78,7 +78,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 300;
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
     src:
@@ -91,7 +91,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 300;
+    font-weight: 300;
     font-style: italic;
     font-display: swap;
     src:
@@ -104,7 +104,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 500;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
     src:
@@ -117,7 +117,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 500;
+    font-weight: 500;
     font-style: italic;
     font-display: swap;
     src:
@@ -130,7 +130,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 400;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
     src:
@@ -143,7 +143,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 400;
+    font-weight: 400;
     font-style: italic;
     font-display: swap;
     src:
@@ -156,7 +156,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 600;
+    font-weight: 600;
     font-style: normal;
     font-display: swap;
     src:
@@ -169,7 +169,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 600;
+    font-weight: 600;
     font-style: italic;
     font-display: swap;
     src:
@@ -182,7 +182,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 100;
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
     src:
@@ -195,7 +195,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 100;
+    font-weight: 100;
     font-style: italic;
     font-display: swap;
     src:
@@ -208,7 +208,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 50;
+    font-weight: 50;
     font-style: normal;
     font-display: swap;
     src:
@@ -221,7 +221,7 @@
 
 @font-face {
     font-family: "SF Pro Display";
-    font-size: 50;
+    font-weight: 50;
     font-style: italic;
     font-display: swap;
     src:
@@ -234,7 +234,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 950;
+    font-weight: 950;
     font-style: normal;
     font-display: swap;
     src:
@@ -247,7 +247,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 700;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
     src:
@@ -260,7 +260,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 900;
+    font-weight: 900;
     font-style: normal;
     font-display: swap;
     src:
@@ -273,7 +273,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 300;
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
     src:
@@ -286,7 +286,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 500;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
     src:
@@ -299,7 +299,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 400;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
     src:
@@ -312,7 +312,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 600;
+    font-weight: 600;
     font-style: normal;
     font-display: swap;
     src:
@@ -325,7 +325,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 100;
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
     src:
@@ -338,7 +338,7 @@
 
 @font-face {
     font-family: "SF Pro Rounded";
-    font-size: 50;
+    font-weight: 50;
     font-style: normal;
     font-display: swap;
     src:
@@ -351,7 +351,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 950;
+    font-weight: 950;
     font-style: normal;
     font-display: swap;
     src:
@@ -364,7 +364,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 950;
+    font-weight: 950;
     font-style: italic;
     font-display: swap;
     src:
@@ -377,7 +377,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 700;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
     src:
@@ -390,7 +390,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 700;
+    font-weight: 700;
     font-style: italic;
     font-display: swap;
     src:
@@ -403,7 +403,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 900;
+    font-weight: 900;
     font-style: normal;
     font-display: swap;
     src:
@@ -416,7 +416,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 900;
+    font-weight: 900;
     font-style: italic;
     font-display: swap;
     src:
@@ -429,7 +429,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 300;
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
     src:
@@ -442,7 +442,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 300;
+    font-weight: 300;
     font-style: italic;
     font-display: swap;
     src:
@@ -455,7 +455,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 500;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
     src:
@@ -468,7 +468,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 500;
+    font-weight: 500;
     font-style: italic;
     font-display: swap;
     src:
@@ -481,7 +481,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 400;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
     src:
@@ -494,7 +494,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 400;
+    font-weight: 400;
     font-style: italic;
     font-display: swap;
     src:
@@ -507,7 +507,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 600;
+    font-weight: 600;
     font-style: normal;
     font-display: swap;
     src:
@@ -520,7 +520,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 600;
+    font-weight: 600;
     font-style: italic;
     font-display: swap;
     src:
@@ -533,7 +533,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 100;
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
     src:
@@ -546,7 +546,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 100;
+    font-weight: 100;
     font-style: italic;
     font-display: swap;
     src:
@@ -559,7 +559,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 50;
+    font-weight: 50;
     font-style: normal;
     font-display: swap;
     src:
@@ -572,7 +572,7 @@
 
 @font-face {
     font-family: "SF Pro Text";
-    font-size: 50;
+    font-weight: 50;
     font-style: italic;
     font-display: swap;
     src:
