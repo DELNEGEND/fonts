@@ -1,33 +1,102 @@
 # DELNEGEND's fonts collection
 
-### [English version](./README-en.md)
-
-## Cách dùng 
+## CDN
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DELNEGEND/fonts/NotoSans.min.css">
 ```
-*Lưu ý: không dùng files combine của JSDelivr*
+*Lưu ý: không dùng files combine của JSDelivr*<br>
+*Note: do not use JSDelivr's files combine*
 
-## Danh sách font
-- Google Sans (còn có tên gọi Product Sans)
+<hr>
+
+## Danh sách font | Font list
+
+Chú thích: ✔️- Hỗ trợ native | ❌- CSS tự generate<br>
+Note: ✔️- native support | ❌- CSS self-generate
+
+- Google Sans (Product Sans)
 
     ```css
     font-family: "Google Sans";
-    font-weight: 400, 500, 700;
-    font-style: normal, italic;
     ```
         
+    | Font weight   | Regular | Italic |
+    |:-----:|:--------:|:---------:|
+    | 400 | ✔️      | ✔️       |
+    | 500 | ✔️      | ✔️       |
+    | 700 | ✔️      | ✔️       |
+
 - NotoSans
 
     ```css
     font-family: "Noto Sans";
-    font-weight: 400, 700;
-    font-style: normal;
     ```
 
-- OneUI | Samsung OneUI
+    | Font weight | Regular | Italic |
+    |:---:|:---:|:---:|
+    |400|✔️|✔️|
+    |700|✔️|✔️|
+
+- OneUI (Samsung OneUI)
 
     ```css
     font-family: OneUI;
-    font-weigt: 400;
-    font-style: normal
+    ```
+
+    | Font weight | Regular | Italic |
+    |:---:|:---:|:---:|
+    |400|✔️|❌|
+    
+- San Francisco Pro
+    -   SF Pro Display
+        ```css
+        font-family: "SF Pro Display"
+        ```
+
+        | Font weight | Regular | Italic |
+        |:---:|:---:|:---:|
+        |50|✔️|✔️|
+        |100|✔️|✔️|
+        |300|✔️|✔️|
+        |400|✔️|✔️|
+        |500|✔️|✔️|
+        |600|✔️|✔️|
+        |700|✔️|✔️|
+        |900|✔️|✔️|
+        |950|✔️|✔️|
+
+    - SF Pro Rounded
+
+        ```css
+        font-family: "SF Pro Rounded";
+        ```
+
+        | Font weight | Regular | Italic |
+        |:---:|:---:|:---:|
+        |50|✔️|❌|
+        |100|✔️|❌|
+        |300|✔️|❌|
+        |400|✔️|❌|
+        |500|✔️|❌|
+        |600|✔️|❌|
+        |700|✔️|❌|
+        |900|✔️|❌|
+        |950|✔️|❌|
+
+    - SF Pro Text
+    
+        ```css
+        font-family: "SF Pro Text";
+        ```
+
+        | Font weight | Regular | Italic |
+        |:---:|:---:|:---:|
+        |50|✔️|✔️|
+        |100|✔️|✔️|
+        |300|✔️|✔️|
+        |400|✔️|✔️|
+        |500|✔️|✔️|
+        |600|✔️|✔️|
+        |700|✔️|✔️|
+        |900|✔️|✔️|
+        |950|✔️|✔️|

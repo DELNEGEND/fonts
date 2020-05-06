@@ -1,0 +1,583 @@
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 950;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 950;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 50;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src:
+        local("SF Pro Display"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 50;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 950;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src:
+        local("SF Pro Rounded"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 50;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 950;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 950;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 50;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "SF Pro Text";
+    src:
+        local("SF Pro Text"),
+        url("./SFPro/Display-Black.woff2") format ("woff2"),
+        url("./SFPro/Display-Black.woff") format ("woff"),
+        url("./SFPro/Display-Black.otf") format ("otf");
+    font-weight: 50;
+    font-style: italic;
+    font-display: swap;
+}
