@@ -5,7 +5,7 @@
         url("./NotoSans/NotoSans.woff") format("woff"),
         url("./NotoSans/NotoSans.otf") format("otf");
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     font-display: swap;
 }
 
