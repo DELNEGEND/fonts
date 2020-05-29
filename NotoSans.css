@@ -1,9 +1,9 @@
 @font-face {
     font-family: "Noto Sans";
     src:
-        url("./NotoSans/NotoSans.woff2") format("woff2"),
-        url("./NotoSans/NotoSans.woff") format("woff"),
-        url("./NotoSans/NotoSans.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans.otf") format("otf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
@@ -12,9 +12,9 @@
 @font-face {
     font-family: "Noto Sans";
     src:
-        url("./NotoSans/NotoSans-Bold.woff2") format("woff2"),
-        url("./NotoSans/NotoSans-Bold.woff") format("woff"),
-        url("./NotoSans/NotoSans-Bold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-Bold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-Bold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-Bold.otf") format("otf");
     font-style: normal;
     font-weight: 700;
     font-display: swap;
@@ -23,9 +23,9 @@
 @font-face {
     font-family: "Noto Sans";
     src:
-        url("./NotoSans/NotoSans-Italic.woff2") format("woff2"),
-        url("./NotoSans/NotoSans-Italic.woff") format("woff"),
-        url("./NotoSans/NotoSans-Italic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-Italic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-Italic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-Italic.otf") format("otf");
     font-style: italic;
     font-weight: 400;
     font-display: swap;
@@ -34,9 +34,9 @@
 @font-face {
     font-family: "Noto Sans";
     src:
-        url("./NotoSans/NotoSans-BoldItalic.woff2") format("woff2"),
-        url("./NotoSans/NotoSans-BoldItalic.woff") format("woff"),
-        url("./NotoSans/NotoSans-BoldItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-BoldItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-BoldItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/NotoSans/NotoSans-BoldItalic.otf") format("otf");
     font-style: italic;
     font-weight: 700;
     font-display: swap;

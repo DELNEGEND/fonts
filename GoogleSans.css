@@ -1,9 +1,9 @@
 @font-face {
     font-family: "Google Sans";
     src:
-        url("./GoogleSans/GoogleSans-Bold.woff2") format("woff2"),
-        url("./GoogleSans/GoogleSans-Bold.woff") format("woff"),
-        url("./GoogleSans/GoogleSans-Bold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Bold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Bold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Bold.otf") format("otf");
     font-style: normal;
     font-weight: 700;
     font-display: swap;
@@ -12,9 +12,9 @@
 @font-face {
     font-family: "Google Sans";
     src:
-        url("./GoogleSans/GoogleSans-BoldItalic.woff2") format("woff2"),
-        url("./GoogleSans/GoogleSans-BoldItalic.woff") format("woff"),
-        url("./GoogleSans/GoogleSans-BoldItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-BoldItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-BoldItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-BoldItalic.otf") format("otf");
     font-style: italic;
     font-weight: 700;
     font-display: swap;
@@ -23,9 +23,9 @@
 @font-face {
     font-family: "Google Sans";
     src:
-        url("./GoogleSans/GoogleSans-Italic.woff2") format("woff2"),
-        url("./GoogleSans/GoogleSans-Italic.woff") format("woff"),
-        url("./GoogleSans/GoogleSans-Italic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Italic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Italic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Italic.otf") format("otf");
     font-style: italic;
     font-weight: 400;
     font-display: swap;
@@ -34,9 +34,9 @@
 @font-face {
     font-family: "Google Sans";
     src:
-        url("./GoogleSans/GoogleSans-Medium.woff2") format("woff2"),
-        url("./GoogleSans/GoogleSans-Medium.woff") format("woff"),
-        url("./GoogleSans/GoogleSans-Medium.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Medium.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Medium.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Medium.otf") format("otf");
     font-style: normal;
     font-weight: 500;
     font-display: swap;
@@ -45,9 +45,9 @@
 @font-face {
     font-family: "Google Sans";
     src:
-        url("./GoogleSans/GoogleSans-MediumItalic.woff2") format("woff2"),
-        url("./GoogleSans/GoogleSans-MediumItalic.woff") format("woff"),
-        url("./GoogleSans/GoogleSans-MediumItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-MediumItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-MediumItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-MediumItalic.otf") format("otf");
     font-style: italic;
     font-weight: 500;
     font-display: swap;
@@ -56,9 +56,9 @@
 @font-face {
     font-family: "Google Sans";
     src:
-        url("./GoogleSans/GoogleSans-Regular.woff2") format("woff2"),
-        url("./GoogleSans/GoogleSans-Regular.woff") format("woff"),
-        url("./GoogleSans/GoogleSans-Regular.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Regular.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Regular.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/GoogleSans/GoogleSans-Regular.otf") format("otf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
