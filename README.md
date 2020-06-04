@@ -11,7 +11,7 @@
 
 ## Danh sách font | Font list
 
-**Chú thích**: ✔️ native | ⚠️ dùng được nhưng không native
+**Chú thích**: ✔️ native | ⚠️ dùng được nhưng không native<br>
 **Note**: ✔️ native | ⚠️ still can use but not native
 
 - Google Sans (Product Sans)
