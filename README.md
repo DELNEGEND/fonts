@@ -11,8 +11,8 @@
 
 ## Danh sách font | Font list
 
-**Chú thích**: ✔️ native | ❌ dùng được nhưng không native, trình duyệt phải chỉnh sửa<br>
-**Note**: ✔️ native | ❌ can use but not native, browser must generate those
+**Chú thích**: ✔️ native | ⚠️ dùng được nhưng không native
+**Note**: ✔️ native | ⚠️ still can use but not native
 
 - Google Sans (Product Sans)
 
@@ -45,7 +45,7 @@
 
     | Font weight | Regular | Italic |
     |:---:|:---:|:---:|
-    |400|✔️|❌|
+    |400|✔️|⚠️|
     
 - San Francisco Pro
     -   SF Pro Display
@@ -73,15 +73,15 @@
 
         | Font weight | Regular | Italic |
         |:---:|:---:|:---:|
-        |50|✔️|❌|
-        |100|✔️|❌|
-        |300|✔️|❌|
-        |400|✔️|❌|
-        |500|✔️|❌|
-        |600|✔️|❌|
-        |700|✔️|❌|
-        |900|✔️|❌|
-        |950|✔️|❌|
+        |50|✔️|⚠️|
+        |100|✔️|⚠️|
+        |300|✔️|⚠️|
+        |400|✔️|⚠️|
+        |500|✔️|⚠️|
+        |600|✔️|⚠️|
+        |700|✔️|⚠️|
+        |900|✔️|⚠️|
+        |950|✔️|⚠️|
 
     - SF Pro Text
     
