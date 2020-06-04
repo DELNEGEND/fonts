@@ -4,15 +4,15 @@
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DELNEGEND/fonts/NotoSans.min.css">
 ```
-*Lưu ý: không dùng files combine của JSDelivr*<br>
-*Note: do not use JSDelivr's files combine*
+***Lưu ý**: nên dùng files combine của JSDelivr*<br>
+***Note**: recommended using JSDelivr's files combine*
 
 <hr>
 
 ## Danh sách font | Font list
 
-Chú thích: ✔️- Hỗ trợ native | ❌- CSS tự generate<br>
-Note: ✔️- native support | ❌- CSS self-generate
+**Chú thích**: ✔️ native | ❌ dùng được nhưng không native, trình duyệt phải chỉnh sửa<br>
+**Note**: ✔️ native | ❌ can use but not native, browser must generate those
 
 - Google Sans (Product Sans)
 
