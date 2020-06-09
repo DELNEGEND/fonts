@@ -4,8 +4,8 @@
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DELNEGEND/fonts/NotoSans.min.css">
 ```
-***Lưu ý**: nên dùng files combine của JSDelivr*<br>
-***Note**: recommended using JSDelivr's files combine*
+***Lưu ý**: không dùng files combine của JSDelivr*<br>
+***Note**: do not using JSDelivr's files combine*
 
 <hr>
 
@@ -46,7 +46,22 @@
     | Font weight | Regular | Italic |
     |:---:|:---:|:---:|
     |400|✔️|⚠️|
-    
+
+- Roboto
+
+  ```css
+  font-family: Roboto;
+  ```
+
+    | Font weight | Regular | Italic
+    |:---:|:---:|:---:|
+    |100|✔️|✔️|
+    |300|✔️|✔️|
+    |400|✔️|✔️|
+    |500|✔️|✔️|
+    |700|✔️|✔️|
+    |900|✔️|✔️|
+
 - San Francisco Pro
     -   SF Pro Display
         ```css
