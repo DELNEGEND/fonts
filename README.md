@@ -4,8 +4,8 @@
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DELNEGEND/fonts/NotoSans.min.css">
 ```
-***Lưu ý**: không dùng files combine của JSDelivr*<br>
-***Note**: do not using JSDelivr's files combine*
+***Lưu ý**: có thể files combine của JSDelivr*<br>
+***Note**: can use JSDelivr's files combine*
 
 <hr>
 
