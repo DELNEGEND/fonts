@@ -5,9 +5,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Black.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Black.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Black.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Black.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Black.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Black.otf") format("otf");
 }
 
 
@@ -18,9 +18,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-BlackItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-BlackItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-BlackItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-BlackItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-BlackItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-BlackItalic.otf") format("otf");
 }
 
 
@@ -31,9 +31,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Bold.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Bold.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Bold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Bold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Bold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Bold.otf") format("otf");
 }
 
 
@@ -44,9 +44,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-BoldItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-BoldItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-BoldItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-BoldItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-BoldItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-BoldItalic.otf") format("otf");
 }
 
 
@@ -57,9 +57,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Heavy.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Heavy.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Heavy.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Heavy.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Heavy.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Heavy.otf") format("otf");
 }
 
 
@@ -70,9 +70,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-HeavyItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-HeavyItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-HeavyItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-HeavyItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-HeavyItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-HeavyItalic.otf") format("otf");
 }
 
 
@@ -83,9 +83,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Light.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Light.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Light.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Light.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Light.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Light.otf") format("otf");
 }
 
 
@@ -96,9 +96,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-LightItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-LightItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-LightItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-LightItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-LightItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-LightItalic.otf") format("otf");
 }
 
 
@@ -109,9 +109,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Medium.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Medium.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Medium.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Medium.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Medium.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Medium.otf") format("otf");
 }
 
 
@@ -122,9 +122,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-MediumItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-MediumItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-MediumItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-MediumItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-MediumItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-MediumItalic.otf") format("otf");
 }
 
 
@@ -135,9 +135,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Regular.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Regular.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Regular.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Regular.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Regular.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Regular.otf") format("otf");
 }
 
 
@@ -148,9 +148,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-RegularItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-RegularItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-RegularItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-RegularItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-RegularItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-RegularItalic.otf") format("otf");
 }
 
 
@@ -161,9 +161,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Semibold.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Semibold.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Semibold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Semibold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Semibold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Semibold.otf") format("otf");
 }
 
 
@@ -174,9 +174,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-SemiboldItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-SemiboldItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-SemiboldItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-SemiboldItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-SemiboldItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-SemiboldItalic.otf") format("otf");
 }
 
 
@@ -187,9 +187,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Thin.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Thin.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Thin.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Thin.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Thin.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Thin.otf") format("otf");
 }
 
 
@@ -200,9 +200,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-ThinItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-ThinItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-ThinItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-ThinItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-ThinItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-ThinItalic.otf") format("otf");
 }
 
 
@@ -213,9 +213,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Ultralight.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Ultralight.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-Ultralight.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Ultralight.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Ultralight.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-Ultralight.otf") format("otf");
 }
 
 
@@ -226,9 +226,9 @@
     font-display: swap;
     src:
         local("SF Pro Display"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-UltralightItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-UltralightItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Display-UltralightItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-UltralightItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-UltralightItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Display-UltralightItalic.otf") format("otf");
 }
 
 
@@ -239,9 +239,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Black.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Black.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Black.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Black.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Black.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Black.otf") format("otf");
 }
 
 
@@ -252,9 +252,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Bold.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Bold.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Bold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Bold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Bold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Bold.otf") format("otf");
 }
 
 
@@ -265,9 +265,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Heavy.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Heavy.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Heavy.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Heavy.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Heavy.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Heavy.otf") format("otf");
 }
 
 
@@ -278,9 +278,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Light.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Light.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Light.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Light.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Light.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Light.otf") format("otf");
 }
 
 
@@ -291,9 +291,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Medium.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Medium.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Medium.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Medium.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Medium.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Medium.otf") format("otf");
 }
 
 
@@ -304,9 +304,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Regular.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Regular.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Regular.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Regular.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Regular.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Regular.otf") format("otf");
 }
 
 
@@ -317,9 +317,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Semibold.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Semibold.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Semibold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Semibold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Semibold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Semibold.otf") format("otf");
 }
 
 
@@ -330,9 +330,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Thin.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Thin.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Thin.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Thin.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Thin.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Thin.otf") format("otf");
 }
 
 
@@ -343,9 +343,9 @@
     font-display: swap;
     src:
         local("SF Pro Rounded"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Ultralight.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Ultralight.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Rounded-Ultralight.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Ultralight.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Ultralight.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Rounded-Ultralight.otf") format("otf");
 }
 
 
@@ -356,9 +356,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Black.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Black.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Black.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Black.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Black.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Black.otf") format("otf");
 }
 
 
@@ -369,9 +369,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-BlackItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-BlackItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-BlackItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-BlackItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-BlackItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-BlackItalic.otf") format("otf");
 }
 
 
@@ -382,9 +382,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Bold.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Bold.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Bold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Bold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Bold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Bold.otf") format("otf");
 }
 
 
@@ -395,9 +395,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-BoldItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-BoldItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-BoldItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-BoldItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-BoldItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-BoldItalic.otf") format("otf");
 }
 
 
@@ -408,9 +408,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Heavy.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Heavy.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Heavy.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Heavy.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Heavy.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Heavy.otf") format("otf");
 }
 
 
@@ -421,9 +421,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-HeavyItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-HeavyItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-HeavyItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-HeavyItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-HeavyItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-HeavyItalic.otf") format("otf");
 }
 
 
@@ -434,9 +434,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Light.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Light.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Light.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Light.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Light.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Light.otf") format("otf");
 }
 
 
@@ -447,9 +447,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-LightItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-LightItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-LightItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-LightItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-LightItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-LightItalic.otf") format("otf");
 }
 
 
@@ -460,9 +460,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Medium.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Medium.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Medium.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Medium.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Medium.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Medium.otf") format("otf");
 }
 
 
@@ -473,9 +473,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-MediumItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-MediumItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-MediumItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-MediumItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-MediumItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-MediumItalic.otf") format("otf");
 }
 
 
@@ -486,9 +486,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Regular.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Regular.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Regular.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Regular.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Regular.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Regular.otf") format("otf");
 }
 
 
@@ -499,9 +499,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-RegularItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-RegularItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-RegularItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-RegularItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-RegularItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-RegularItalic.otf") format("otf");
 }
 
 
@@ -512,9 +512,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Semibold.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Semibold.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Semibold.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Semibold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Semibold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Semibold.otf") format("otf");
 }
 
 
@@ -525,9 +525,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-SemiboldItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-SemiboldItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-SemiboldItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-SemiboldItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-SemiboldItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-SemiboldItalic.otf") format("otf");
 }
 
 
@@ -538,9 +538,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Thin.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Thin.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Thin.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Thin.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Thin.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Thin.otf") format("otf");
 }
 
 
@@ -551,9 +551,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-ThinItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-ThinItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-ThinItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-ThinItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-ThinItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-ThinItalic.otf") format("otf");
 }
 
 
@@ -564,9 +564,9 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Ultralight.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Ultralight.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-Ultralight.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Ultralight.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Ultralight.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-Ultralight.otf") format("otf");
 }
 
 
@@ -577,7 +577,7 @@
     font-display: swap;
     src:
         local("SF Pro Text"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-UltralightItalic.woff2") format("woff2"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-UltralightItalic.woff") format("woff"),
-        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@0.6/SFPro/Text-UltralightItalic.otf") format("otf");
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-UltralightItalic.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-UltralightItalic.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/DELNEGEND/fonts@latest/data/SFPro/Text-UltralightItalic.otf") format("otf");
 }
