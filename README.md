@@ -14,8 +14,9 @@
 **Chú thích**: ✔️ native | ⚠️ dùng được nhưng không native<br>
 **Note**: ✔️ native | ⚠️ still can use but not native
 
-- Google Sans (Product Sans)
-
+- <details>
+  <summary>Google Sans (Product Sans)</summary>
+    
     ```css
     font-family: "Google Sans";
     ```
@@ -26,8 +27,30 @@
     | 500 | ✔️      | ✔️       |
     | 700 | ✔️      | ✔️       |
 
-- NotoSans
+</details>
 
+- <details>
+  <summary>Gordita</summary>
+
+  ```css
+  font-family: Roboto;
+  ```
+
+    | Font weight | Regular | Italic
+    |:---:|:---:|:---:|
+    |100|✔️|✔️|
+    |300|✔️|✔️|
+    |400|✔️|✔️|
+    |500|✔️|✔️|
+    |700|✔️|✔️|
+    |900|✔️|✔️|
+    |950|✔️|✔️|
+
+</details>
+
+- <details>
+  <summary>NotoSans</summary>
+    
     ```css
     font-family: "Noto Sans";
     ```
@@ -37,7 +60,10 @@
     |400|✔️|✔️|
     |700|✔️|✔️|
 
-- OneUI (Samsung OneUI)
+</details>
+
+- <details>
+  <summary>OneUI (Samsung OneUI)</summary>
 
     ```css
     font-family: OneUI;
@@ -47,7 +73,10 @@
     |:---:|:---:|:---:|
     |400|✔️|⚠️|
 
-- Roboto
+</details>
+
+- <details>
+  <summary>Roboto</summary>
 
   ```css
   font-family: Roboto;
@@ -62,7 +91,12 @@
     |700|✔️|✔️|
     |900|✔️|✔️|
 
-- San Francisco Pro
+</details>
+
+- <details>
+  <summary>San Francisco Pro</summary>
+
+
     -   SF Pro Display
         ```css
         font-family: "SF Pro Display"
@@ -115,3 +149,5 @@
         |700|✔️|✔️|
         |900|✔️|✔️|
         |950|✔️|✔️|
+
+</details>
